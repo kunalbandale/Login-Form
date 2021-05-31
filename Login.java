@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 
-public class Login extends Applet implements ActionListener {
+public class login extends Applet implements ActionListener {
 	
 	TextField t1 , t2 ;
 	Label l1 , l2 , l3 ;
@@ -41,5 +41,6 @@ public class Login extends Applet implements ActionListener {
 	}
 	
 /*
-<applet code="login" height=300  width=300 </applet>
+<applet code="login" width = 300 height = 300>
+</applet>
 */
