@@ -4,7 +4,7 @@
 # Workflow of Login Form
 
 ##### Flowchart
-[![](https://i.imgur.com/GcpVpnr.png)](https://i.imgur.com/GcpVpnr.png)
+[![](https://i.imgur.com/Jp0XSTi.png)](https://i.imgur.com/Jp0XSTi.png)
 
 ------------
 
